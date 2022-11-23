@@ -13,3 +13,4 @@ services:
     restart: 'always'
     ports:
       - "3000:3000"
+    webhook: "https://hook.integromat.com/bitq8wrcqsctm2pgf3ajki6byctksab4"
